@@ -1,0 +1,7 @@
+# Capturas e dados de rede nunca vão para o Git
+*.csv
+*.pcap
+*.pcapng
+__pycache__/
+*.pyc
+.venv/
